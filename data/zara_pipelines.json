@@ -1,0 +1,9 @@
+{
+  "pipelines": [
+    {
+      "id": "pipeline-pending-1",
+      "name": "Checkout pipeline",
+      "status": "Pending Setup"
+    }
+  ]
+}
